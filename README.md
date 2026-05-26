@@ -1,6 +1,6 @@
 # StartOS Packages
 
-_231 packages · 2026-05-26 · sources: start9labs, Start9-Community, public GitHub_
+_232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public GitHub_
 
 ## Updated within 6 months (151)
 
@@ -78,6 +78,7 @@ _231 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [jam-startos](https://github.com/start9labs/jam-startos) | start9labs | 1.3.3 | 2026-05-01 |
 | [jellyfin-startos](https://github.com/start9labs/jellyfin-startos) | start9labs | 1.5.1 | 2026-05-20 |
 | [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 1.5.3 | 2026-05-22 |
+| [karakeep-startos](https://github.com/saiththerobo/karakeep-startos) | saiththerobo | 1.5.2 | 2026-05-26 |
 | [keep-startos](https://github.com/privkeyio/keep-startos) | privkeyio | 1.5.3 | 2026-05-26 |
 | [keycloak-startos](https://github.com/dr-bonez/keycloak-startos) | dr-bonez | ^0.4.0-beta.45 | 2026-01-09 |
 | [kindle-md-reader-startos](https://github.com/rocket-morgan/kindle-md-reader-startos) | rocket-morgan | — | 2026-03-16 |
@@ -154,7 +155,7 @@ _231 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [vaultwarden-startos](https://github.com/start9labs/vaultwarden-startos) | start9labs | 1.5.1 | 2026-05-20 |
 | [vikunja-startos](https://github.com/Start9-Community/vikunja-startos) | Start9-Community | 1.5.3 | 2026-05-22 |
 | [vllm-startos](https://github.com/start9labs/vllm-startos) | start9labs | 1.3.3 | 2026-05-21 |
-| [warpgate-startos](https://github.com/saiththerobo/warpgate-startos) | saiththerobo | 1.5.2 | 2026-05-20 |
+| [warpgate-startos](https://github.com/saiththerobo/warpgate-startos) | saiththerobo | 1.5.2 | 2026-05-26 |
 | [wasabi-webtop-startos](https://github.com/remcoros/wasabi-webtop-startos) | remcoros | 1.5.1 | 2026-05-16 |
 | [wisp-startos](https://github.com/privkeyio/wisp-startos) | privkeyio | ^0.4.0-beta.44 | 2025-12-10 |
 
