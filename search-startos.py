@@ -105,12 +105,10 @@ def enrich(entry):
     upstream = entry["upstream_full_name"]
     sdk, pushed_at = get_repo_info(upstream)
     upstream_owner = upstream.split("/")[0]
-    ingested = entry["orgs"]
     return {
         "name": entry["name"],
         "maintainer": upstream_owner,
         "sdk_version": sdk or "—",
-        "ingested_by": ", ".join(sorted(ingested)) if ingested else "—",
         "pushed_at": pushed_at,
         "last_updated": format_date(pushed_at),
         "age_days": age_days(pushed_at),
@@ -137,10 +135,10 @@ BUCKET_HEADERS = [
 
 def results_table(rows: list) -> str:
     rows = sorted(rows, key=lambda x: x["name"].lower())
-    md = "| Package | Maintainer | SDK version | Last updated | Ingested by |\n"
-    md += "| --- | --- | --- | --- | --- |\n"
+    md = "| Package | Maintainer | SDK version | Last updated |\n"
+    md += "| --- | --- | --- | --- |\n"
     for r in rows:
-        md += f"| {r['name']} | {r['maintainer']} | {r['sdk_version']} | {r['last_updated']} | {r['ingested_by']} |\n"
+        md += f"| {r['name']} | {r['maintainer']} | {r['sdk_version']} | {r['last_updated']} |\n"
     return md
 
 
