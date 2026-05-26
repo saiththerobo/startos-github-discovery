@@ -107,6 +107,7 @@ def enrich(entry):
     upstream_owner = upstream.split("/")[0]
     return {
         "name": entry["name"],
+        "github_url": f"https://github.com/{upstream}",
         "maintainer": upstream_owner,
         "sdk_version": sdk or "—",
         "pushed_at": pushed_at,
@@ -138,7 +139,7 @@ def results_table(rows: list) -> str:
     md = "| Package | Maintainer | SDK version | Last updated |\n"
     md += "| --- | --- | --- | --- |\n"
     for r in rows:
-        md += f"| {r['name']} | {r['maintainer']} | {r['sdk_version']} | {r['last_updated']} |\n"
+        md += f"| [{r['name']}]({r['github_url']}) | {r['maintainer']} | {r['sdk_version']} | {r['last_updated']} |\n"
     return md
 
 
