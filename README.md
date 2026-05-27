@@ -1,8 +1,8 @@
 # StartOS Packages
 
-_236 packages · 2026-05-27 · sources: start9labs, Start9-Community, public GitHub_
+_235 packages · 2026-05-27 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (156)
+## Updated within 6 months (155)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -38,7 +38,6 @@ _236 packages · 2026-05-27 · sources: start9labs, Start9-Community, public Git
 | [btcshell-startos](https://github.com/horologger/btcshell-startos) | horologger | — | 2026-03-22 |
 | [cal-diy-startos](https://github.com/start9labs/cal-diy-startos) | start9labs | 1.5.2 | 2026-05-27 |
 | [calibre-content-server-startos](https://github.com/saiththerobo/calibre-content-server-startos) | saiththerobo | 1.5.3 | 2026-05-27 |
-| [calibre-web-startos](https://github.com/saiththerobo/calibre-web-startos) | saiththerobo | 1.5.3 | 2026-05-27 |
 | [canary-startos](https://github.com/Start9-Community/canary-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [catapult-startos](https://github.com/4rkad/catapult-startos) | 4rkad | 1.3.2 | 2026-05-13 |
 | [cftunnel-startos](https://github.com/ariesbabu/cftunnel-startos) | ariesbabu | 1.3.2 | 2026-04-28 |
@@ -148,7 +147,7 @@ _236 packages · 2026-05-27 · sources: start9labs, Start9-Community, public Git
 | [synapse-startos](https://github.com/start9labs/synapse-startos) | start9labs | 1.5.3 | 2026-05-22 |
 | [tailrelay-startos](https://github.com/sudocarlos/tailrelay-startos) | sudocarlos | — | 2026-05-14 |
 | [tailscale-startos](https://github.com/Start9-Community/tailscale-startos) | Start9-Community | 1.0.0 | 2026-04-14 |
-| [test-startos](https://github.com/JesseMarkowitz/test-startos) | JesseMarkowitz | ^0.4.0-beta.48 | 2026-02-11 |
+| [test-startos](https://github.com/supersuryaansh/test-startos) | supersuryaansh | ^0.4.0-beta.45 | 2025-12-21 |
 | [thunderhub-startos](https://github.com/Start9-Community/thunderhub-startos) | Start9-Community | 1.5.3 | 2026-05-25 |
 | [todo-startos](https://github.com/carlosjackkal/todo-startos) | carlosjackkal | 1.0.0 | 2026-04-21 |
 | [tor-startos](https://github.com/start9labs/tor-startos) | start9labs | 1.5.3 | 2026-05-26 |

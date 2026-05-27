@@ -60,14 +60,16 @@ def search_public_repos():
 
 
 def get_repo_info(full_name):
-    """Return (sdk_version, pushed_at) for a repo."""
-    # Fetch package.json and repo metadata in parallel-ish via two calls
+    """Return (sdk_version, pushed_at) or (None, None) if the repo is private."""
     sdk = None
     pushed_at = None
 
-    out = gh("api", f"repos/{full_name}", "-q", ".pushed_at")
+    out = gh("api", f"repos/{full_name}", "-q", ".pushed_at + \"|\" + (.private | tostring)")
     if out:
-        pushed_at = out.strip()
+        parts = out.strip().split("|")
+        if len(parts) == 2 and parts[1] == "true":
+            return None, None  # private repo — skip
+        pushed_at = parts[0]
 
     pkg_out = gh("api", f"repos/{full_name}/contents/package.json", "-q", ".content")
     if pkg_out:
@@ -104,6 +106,8 @@ def format_date(pushed_at: str | None) -> str:
 def enrich(entry):
     upstream = entry["upstream_full_name"]
     sdk, pushed_at = get_repo_info(upstream)
+    if sdk is None and pushed_at is None:
+        return None  # private repo
     upstream_owner = upstream.split("/")[0]
     return {
         "name": entry["name"],
@@ -170,6 +174,9 @@ def main():
         futures = {pool.submit(enrich, e): e for e in entries}
         for i, future in enumerate(as_completed(futures), 1):
             r = future.result()
+            if r is None:
+                print(f"  [{i}/{len(entries)}] (private — skipped)", flush=True)
+                continue
             results.append(r)
             print(f"  [{i}/{len(entries)}] {r['name']}  ({r['last_updated']})", flush=True)
 
