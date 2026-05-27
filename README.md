@@ -1,12 +1,12 @@
 # StartOS Packages
 
-_232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public GitHub_
+_236 packages · 2026-05-27 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (151)
+## Updated within 6 months (156)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
-| [-ckpool-bch-startos](https://github.com/AwfulWaffleMining/-ckpool-bch-startos) | AwfulWaffleMining | 1.5.2 | 2026-05-23 |
+| [-ckpool-bch-startos](https://github.com/AwfulWaffleMining/-ckpool-bch-startos) | AwfulWaffleMining | 1.5.2 | 2026-05-27 |
 | [act-runner-startos](https://github.com/Warfields/act-runner-startos) | Warfields | ^0.4.0-beta.58 | 2026-03-09 |
 | [actual-budget-startos](https://github.com/start9labs/actual-budget-startos) | start9labs | 1.5.1 | 2026-05-20 |
 | [admintools-startos](https://github.com/JesseMarkowitz/admintools-startos) | JesseMarkowitz | — | 2026-05-13 |
@@ -15,7 +15,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [archivebox-startos](https://github.com/Start9-Community/archivebox-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [aubieeternal-startos](https://github.com/hodlmateo/aubieeternal-startos) | hodlmateo | — | 2026-04-26 |
 | [axeos-monitor-aio-startos](https://github.com/remcoros/axeos-monitor-aio-startos) | remcoros | 1.5.1 | 2026-05-24 |
-| [azerothcore-startos](https://github.com/Start9-Community/azerothcore-startos) | Start9-Community | 1.5.3 | 2026-05-21 |
+| [azerothcore-startos](https://github.com/Start9-Community/azerothcore-startos) | Start9-Community | 1.5.3 | 2026-05-26 |
 | [balanceofsatoshis-startos](https://github.com/Start9-Community/balanceofsatoshis-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [bch-asicseer-startos](https://github.com/Start9-Community/bch-asicseer-startos) | Start9-Community | ^1.2.1 | 2026-05-21 |
 | [bch-elopool-startos](https://github.com/Start9-Community/bch-elopool-startos) | Start9-Community | ^1.2.1 | 2026-05-21 |
@@ -26,7 +26,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [bisq-startos](https://github.com/Start9-Community/bisq-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [bitcart-startos](https://github.com/CyberAshven/bitcart-startos) | CyberAshven | 1.0.0 | 2026-04-20 |
 | [bitcoin-cash-daemon-startos](https://github.com/Start9-Community/bitcoin-cash-daemon-startos) | Start9-Community | ^1.2.1 | 2026-05-21 |
-| [bitcoin-cash-node-startos](https://github.com/Start9-Community/bitcoin-cash-node-startos) | Start9-Community | 1.0.0 | 2026-05-20 |
+| [bitcoin-cash-node-startos](https://github.com/Start9-Community/bitcoin-cash-node-startos) | Start9-Community | 1.5.3 | 2026-05-26 |
 | [bitcoin-core-startos](https://github.com/start9labs/bitcoin-core-startos) | start9labs | 1.5.2 | 2026-05-25 |
 | [bitcoin-explorer-startos](https://github.com/Start9-Community/bitcoin-explorer-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [bitcoin-knots-startos](https://github.com/start9labs/bitcoin-knots-startos) | start9labs | 1.5.1 | 2026-05-25 |
@@ -36,6 +36,9 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [broadcast-pool-startos](https://github.com/semillabitcoin/broadcast-pool-startos) | semillabitcoin | 1.0.0 | 2026-05-15 |
 | [btcpayserver-startos](https://github.com/start9labs/btcpayserver-startos) | start9labs | 1.5.2 | 2026-05-20 |
 | [btcshell-startos](https://github.com/horologger/btcshell-startos) | horologger | — | 2026-03-22 |
+| [cal-diy-startos](https://github.com/start9labs/cal-diy-startos) | start9labs | 1.5.2 | 2026-05-27 |
+| [calibre-content-server-startos](https://github.com/saiththerobo/calibre-content-server-startos) | saiththerobo | 1.5.3 | 2026-05-27 |
+| [calibre-web-startos](https://github.com/saiththerobo/calibre-web-startos) | saiththerobo | 1.5.3 | 2026-05-27 |
 | [canary-startos](https://github.com/Start9-Community/canary-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [catapult-startos](https://github.com/4rkad/catapult-startos) | 4rkad | 1.3.2 | 2026-05-13 |
 | [cftunnel-startos](https://github.com/ariesbabu/cftunnel-startos) | ariesbabu | 1.3.2 | 2026-04-28 |
@@ -53,11 +56,11 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [docuseal-startos](https://github.com/start9labs/docuseal-startos) | start9labs | 1.5.2 | 2026-05-20 |
 | [electrs-startos](https://github.com/Start9-Community/electrs-startos) | Start9-Community | 1.5.2 | 2026-05-24 |
 | [evolu-relay-startos](https://github.com/rabbitholiness/evolu-relay-startos) | rabbitholiness | — | 2026-02-12 |
-| [fedimint-gateway-startos](https://github.com/Start9-Community/fedimint-gateway-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
+| [fedimint-gateway-startos](https://github.com/Start9-Community/fedimint-gateway-startos) | Start9-Community | 1.5.3 | 2026-05-26 |
 | [fedimint-guardian-startos](https://github.com/Start9-Community/fedimint-guardian-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [filebrowser-startos](https://github.com/start9labs/filebrowser-startos) | start9labs | 1.5.3 | 2026-05-22 |
-| [flowee-the-hub-startos](https://github.com/BitcoinCash1/flowee-the-hub-startos) | BitcoinCash1 | ^1.2.1 | 2026-05-23 |
-| [frigate-startos](https://github.com/remcoros/frigate-startos) | remcoros | 1.5.3 | 2026-05-22 |
+| [flowee-the-hub-startos](https://github.com/Start9-Community/flowee-the-hub-startos) | Start9-Community | ^1.2.1 | 2026-05-26 |
+| [frigate-startos](https://github.com/remcoros/frigate-startos) | remcoros | 1.5.3 | 2026-05-26 |
 | [fulcrum-bch-startos](https://github.com/Start9-Community/fulcrum-bch-startos) | Start9-Community | 1.0.0 | 2026-05-20 |
 | [fulcrum-startos](https://github.com/start9labs/fulcrum-startos) | start9labs | 1.5.2 | 2026-05-25 |
 | [garage-startos](https://github.com/start9labs/garage-startos) | start9labs | 1.5.1 | 2026-05-20 |
@@ -66,7 +69,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [gitea-startos](https://github.com/start9labs/gitea-startos) | start9labs | 1.5.3 | 2026-05-22 |
 | [helipad-startos](https://github.com/Start9-Community/helipad-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [helix-home-startos](https://github.com/start9labs/helix-home-startos) | start9labs | 1.3.3 | 2026-05-13 |
-| [hello-world-startos](https://github.com/start9labs/hello-world-startos) | start9labs | 1.5.2 | 2026-05-25 |
+| [hello-world-startos](https://github.com/start9labs/hello-world-startos) | start9labs | 1.5.3 | 2026-05-26 |
 | [hermes-agent-startos](https://github.com/Start9-Community/hermes-agent-startos) | Start9-Community | 1.5.2 | 2026-05-22 |
 | [hermes-startos](https://github.com/andycreed0x/hermes-startos) | andycreed0x | 1.5.2 | 2026-05-21 |
 | [holesail-startos](https://github.com/Start9-Community/holesail-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
@@ -89,7 +92,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [lightning-terminal-startos](https://github.com/start9labs/lightning-terminal-startos) | start9labs | 1.5.1 | 2026-05-20 |
 | [llama-cpp-startos](https://github.com/start9labs/llama-cpp-startos) | start9labs | 1.5.2 | 2026-05-22 |
 | [lnbits-startos](https://github.com/start9labs/lnbits-startos) | start9labs | 1.5.1 | 2026-05-20 |
-| [lnd-startos](https://github.com/start9labs/lnd-startos) | start9labs | 1.5.2 | 2026-05-22 |
+| [lnd-startos](https://github.com/start9labs/lnd-startos) | start9labs | 1.5.2 | 2026-05-26 |
 | [lndg-startos](https://github.com/Start9-Community/lndg-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [mailflow-startos](https://github.com/saiththerobo/mailflow-startos) | saiththerobo | ^1.5.3 | 2026-05-22 |
 | [maple-proxy-startos](https://github.com/Start9-Community/maple-proxy-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
@@ -102,7 +105,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [moltbot-startos](https://github.com/andycreed0x/moltbot-startos) | andycreed0x | — | 2026-01-29 |
 | [monerod-startos](https://github.com/Start9-Community/monerod-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [myspeed-startos](https://github.com/Start9-Community/myspeed-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
-| [namecoin-core-startos](https://github.com/Start9-Community/namecoin-core-startos) | Start9-Community | — | 2026-05-22 |
+| [namecoin-core-startos](https://github.com/Start9-Community/namecoin-core-startos) | Start9-Community | 1.5.3 | 2026-05-26 |
 | [namecoin-electrumx-startos](https://github.com/mstrofnone/namecoin-electrumx-startos) | mstrofnone | — | 2026-05-08 |
 | [next-block-startos](https://github.com/4rkad/next-block-startos) | 4rkad | 1.3.2 | 2026-05-13 |
 | [nextcloud-startos](https://github.com/start9labs/nextcloud-startos) | start9labs | 1.5.2 | 2026-05-23 |
@@ -115,9 +118,9 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [ollama-startos](https://github.com/start9labs/ollama-startos) | start9labs | 1.5.2 | 2026-05-20 |
 | [open-webui-startos](https://github.com/start9labs/open-webui-startos) | start9labs | 1.5.1 | 2026-05-20 |
 | [openclaw-startos](https://github.com/Start9-Community/openclaw-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
-| [owntracks-startos](https://github.com/stupleb/owntracks-startos) | stupleb | 1.5.2 | 2026-05-22 |
+| [owntracks-startos](https://github.com/stupleb/owntracks-startos) | stupleb | 1.5.2 | 2026-05-26 |
 | [pagecase-startos](https://github.com/ok/pagecase-startos) | ok | 1.5.2 | 2026-05-21 |
-| [paperless-startos](https://github.com/ok/paperless-startos) | ok | 1.5.0 | 2026-05-21 |
+| [paperless-startos](https://github.com/Start9-Community/paperless-startos) | Start9-Community | 1.5.0 | 2026-05-21 |
 | [peertube-startos](https://github.com/saiththerobo/peertube-startos) | saiththerobo | 1.5.3 | 2026-05-26 |
 | [penpot-startos](https://github.com/ok/penpot-startos) | ok | 1.5.0 | 2026-05-25 |
 | [phoenixd-startos](https://github.com/Start9-Community/phoenixd-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
@@ -135,7 +138,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [simplex-startos](https://github.com/start9labs/simplex-startos) | start9labs | 1.5.1 | 2026-05-20 |
 | [spaces-startos](https://github.com/horologger/spaces-startos) | horologger | — | 2026-05-09 |
 | [sparrow-webtop-startos](https://github.com/remcoros/sparrow-webtop-startos) | remcoros | ^1.5.3 | 2026-05-24 |
-| [specter-startos](https://github.com/Start9-Community/specter-startos) | Start9-Community | ^1.5.2 | 2026-05-21 |
+| [specter-startos](https://github.com/Start9-Community/specter-startos) | Start9-Community | ^1.5.3 | 2026-05-26 |
 | [spliit-startos](https://github.com/start9labs/spliit-startos) | start9labs | 1.5.2 | 2026-05-20 |
 | [stable-diffusion-webui-startos](https://github.com/start9labs/stable-diffusion-webui-startos) | start9labs | — | 2026-04-03 |
 | [start9-pages-startos](https://github.com/start9labs/start9-pages-startos) | start9labs | 1.5.2 | 2026-05-20 |
@@ -145,10 +148,10 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [synapse-startos](https://github.com/start9labs/synapse-startos) | start9labs | 1.5.3 | 2026-05-22 |
 | [tailrelay-startos](https://github.com/sudocarlos/tailrelay-startos) | sudocarlos | — | 2026-05-14 |
 | [tailscale-startos](https://github.com/Start9-Community/tailscale-startos) | Start9-Community | 1.0.0 | 2026-04-14 |
-| [test-startos](https://github.com/supersuryaansh/test-startos) | supersuryaansh | ^0.4.0-beta.45 | 2025-12-21 |
+| [test-startos](https://github.com/JesseMarkowitz/test-startos) | JesseMarkowitz | ^0.4.0-beta.48 | 2026-02-11 |
 | [thunderhub-startos](https://github.com/Start9-Community/thunderhub-startos) | Start9-Community | 1.5.3 | 2026-05-25 |
 | [todo-startos](https://github.com/carlosjackkal/todo-startos) | carlosjackkal | 1.0.0 | 2026-04-21 |
-| [tor-startos](https://github.com/start9labs/tor-startos) | start9labs | 1.5.1 | 2026-05-20 |
+| [tor-startos](https://github.com/start9labs/tor-startos) | start9labs | 1.5.3 | 2026-05-26 |
 | [tunnelsats-startos](https://github.com/Tunnelsats/tunnelsats-startos) | Tunnelsats | — | 2026-01-24 |
 | [umbrel-bitcoin-ui-startos](https://github.com/Retropex/umbrel-bitcoin-ui-startos) | Retropex | — | 2026-04-03 |
 | [uptime-kuma-startos](https://github.com/start9labs/uptime-kuma-startos) | start9labs | 1.5.1 | 2026-05-20 |
@@ -158,6 +161,7 @@ _232 packages · 2026-05-26 · sources: start9labs, Start9-Community, public Git
 | [warpgate-startos](https://github.com/saiththerobo/warpgate-startos) | saiththerobo | 1.5.2 | 2026-05-26 |
 | [wasabi-webtop-startos](https://github.com/remcoros/wasabi-webtop-startos) | remcoros | 1.5.1 | 2026-05-16 |
 | [wisp-startos](https://github.com/privkeyio/wisp-startos) | privkeyio | ^0.4.0-beta.44 | 2025-12-10 |
+| [wordpress-startos](https://github.com/start9labs/wordpress-startos) | start9labs | 1.5.2 | 2026-05-26 |
 
 ## Updated within 1 year (19)
 
