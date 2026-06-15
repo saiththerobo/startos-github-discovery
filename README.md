@@ -94,7 +94,7 @@ _266 packages · 2026-06-15 · sources: start9labs, Start9-Community, public Git
 | [jellyfin-startos](https://github.com/start9labs/jellyfin-startos) | start9labs | 1.5.3 | 2026-06-07 |
 | [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 1.5.3 | 2026-06-14 |
 | [joplin-server-startos](https://github.com/start9labs/joplin-server-startos) | start9labs | 1.5.3 | 2026-05-29 |
-| [karakeep-startos](https://github.com/saiththerobo/karakeep-startos) | saiththerobo | 1.5.2 | 2026-05-26 |
+| [karakeep-startos](https://github.com/saiththerobo/karakeep-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
 | [kathreftestr-startos](https://github.com/bobodread876/kathreftestr-startos) | bobodread876 | 1.5.3 | 2026-06-14 |
 | [keep-startos](https://github.com/Start9-Community/keep-startos) | Start9-Community | 1.5.3 | 2026-06-11 |
 | [keycloak-startos](https://github.com/dr-bonez/keycloak-startos) | dr-bonez | ^0.4.0-beta.45 | 2026-01-09 |
@@ -138,13 +138,13 @@ _266 packages · 2026-06-15 · sources: start9labs, Start9-Community, public Git
 | [paperclip-startos](https://github.com/start9labs/paperclip-startos) | start9labs | 1.5.3 | 2026-05-29 |
 | [paperless-startos](https://github.com/Start9-Community/paperless-startos) | Start9-Community | 1.5.3 | 2026-06-14 |
 | [papra-startos](https://github.com/start9labs/papra-startos) | start9labs | 1.5.3 | 2026-06-14 |
-| [peertube-startos](https://github.com/saiththerobo/peertube-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
+| [peertube-startos](https://github.com/saiththerobo/peertube-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
 | [penpot-startos](https://github.com/ok/penpot-startos) | ok | 1.5.0 | 2026-05-25 |
 | [phoenixd-startos](https://github.com/Start9-Community/phoenixd-startos) | Start9-Community | 1.5.3 | 2026-06-06 |
 | [plex-startos](https://github.com/Start9-Community/plex-startos) | Start9-Community | 1.5.3 | 2026-05-28 |
 | [pocket-id-startos](https://github.com/start9labs/pocket-id-startos) | start9labs | 1.3.3 | 2026-05-05 |
 | [primal-web-startos](https://github.com/start9labs/primal-web-startos) | start9labs | 1.5.3 | 2026-06-07 |
-| [prowlarr-startos](https://github.com/saiththerobo/prowlarr-startos) | saiththerobo | 1.5.3 | 2026-05-28 |
+| [prowlarr-startos](https://github.com/saiththerobo/prowlarr-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
 | [public-pool-startos](https://github.com/start9labs/public-pool-startos) | start9labs | 1.5.3 | 2026-06-12 |
 | [public-pool-web-startos](https://github.com/martinbarilik/public-pool-web-startos) | martinbarilik | 1.5.3 | 2026-06-06 |
 | [pushtx-startos](https://github.com/remcoros/pushtx-startos) | remcoros | 1.5.1 | 2026-05-16 |
@@ -188,7 +188,7 @@ _266 packages · 2026-06-15 · sources: start9labs, Start9-Community, public Git
 | [verge-startos](https://github.com/tbtproductions/verge-startos) | tbtproductions | 1.5.3 | 2026-05-30 |
 | [vikunja-startos](https://github.com/Start9-Community/vikunja-startos) | Start9-Community | 1.5.3 | 2026-05-22 |
 | [vllm-startos](https://github.com/start9labs/vllm-startos) | start9labs | 1.5.3 | 2026-06-14 |
-| [warpgate-startos](https://github.com/saiththerobo/warpgate-startos) | saiththerobo | 1.5.2 | 2026-05-26 |
+| [warpgate-startos](https://github.com/saiththerobo/warpgate-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
 | [wasabi-webtop-startos](https://github.com/remcoros/wasabi-webtop-startos) | remcoros | 1.5.1 | 2026-05-16 |
 | [wisp-startos](https://github.com/privkeyio/wisp-startos) | privkeyio | 1.5.3 | 2026-06-14 |
 | [wordpress-startos](https://github.com/start9labs/wordpress-startos) | start9labs | 1.5.2 | 2026-05-27 |
