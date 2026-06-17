@@ -161,7 +161,7 @@ _271 packages · 2026-06-17 · sources: start9labs, Start9-Community, public Git
 | [searxng-startos](https://github.com/start9labs/searxng-startos) | start9labs | 1.5.3 | 2026-06-16 |
 | [serper-startos](https://github.com/paulscode/serper-startos) | paulscode | — | 2026-03-11 |
 | [signet-startos](https://github.com/Letdown2491/signet-startos) | Letdown2491 | 1.5.3 | 2026-06-10 |
-| [simplex-chat-startos](https://github.com/lundog/simplex-chat-startos) | lundog | ^1.5.3 | 2026-06-15 |
+| [simplex-chat-startos](https://github.com/lundog/simplex-chat-startos) | lundog | ^1.5.3 | 2026-06-17 |
 | [simplex-gateway-startos](https://github.com/Start9-Community/simplex-gateway-startos) | Start9-Community | ^1.5.3 | 2026-06-16 |
 | [simplex-startos](https://github.com/start9labs/simplex-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [sonarr-startos](https://github.com/saiththerobo/sonarr-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
