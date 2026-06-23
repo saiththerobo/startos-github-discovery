@@ -1,13 +1,13 @@
 # StartOS Packages
 
-_275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public GitHub_
+_278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (194)
+## Updated within 6 months (198)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
 | [-ckpool-bch-startos](https://github.com/AwfulWaffleMining/-ckpool-bch-startos) | AwfulWaffleMining | 1.5.2 | 2026-05-27 |
-| [act-runner-startos](https://github.com/Warfields/act-runner-startos) | Warfields | ^0.4.0-beta.58 | 2026-03-09 |
+| [act-runner-startos](https://github.com/start9labs/act-runner-startos) | start9labs | 1.5.3 | 2026-06-23 |
 | [actual-budget-startos](https://github.com/start9labs/actual-budget-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [admintools-startos](https://github.com/JesseMarkowitz/admintools-startos) | JesseMarkowitz | — | 2026-06-12 |
 | [albyhub-startos](https://github.com/start9labs/albyhub-startos) | start9labs | 1.5.3 | 2026-06-12 |
@@ -24,10 +24,11 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [bch-explorer-startos](https://github.com/Start9-Community/bch-explorer-startos) | Start9-Community | 1.0.0 | 2026-05-21 |
 | [bed-startos](https://github.com/semillabitcoin/bed-startos) | semillabitcoin | 1.4.1 | 2026-05-14 |
 | [bentopdf-startos](https://github.com/stupleb/bentopdf-startos) | stupleb | 1.5.2 | 2026-05-21 |
+| [beszel-startos](https://github.com/islandbitcoin/beszel-startos) | islandbitcoin | ^1.5.3 | 2026-06-23 |
 | [bisq-startos](https://github.com/Start9-Community/bisq-startos) | Start9-Community | 1.5.2 | 2026-06-19 |
 | [bitcart-startos](https://github.com/CyberAshven/bitcart-startos) | CyberAshven | 1.0.0 | 2026-04-20 |
-| [bitcoin-cash-daemon-startos](https://github.com/Start9-Community/bitcoin-cash-daemon-startos) | Start9-Community | ^1.2.1 | 2026-05-21 |
-| [bitcoin-cash-node-startos](https://github.com/Start9-Community/bitcoin-cash-node-startos) | Start9-Community | 1.5.3 | 2026-05-26 |
+| [bitcoin-cash-daemon-startos](https://github.com/Start9-Community/bitcoin-cash-daemon-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
+| [bitcoin-cash-node-startos](https://github.com/Start9-Community/bitcoin-cash-node-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [bitcoin-core-startos](https://github.com/start9labs/bitcoin-core-startos) | start9labs | 1.5.3 | 2026-06-03 |
 | [bitcoin-explorer-startos](https://github.com/Start9-Community/bitcoin-explorer-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [bitcoin-knots-startos](https://github.com/start9labs/bitcoin-knots-startos) | start9labs | 1.5.3 | 2026-06-12 |
@@ -58,10 +59,10 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [DeepSea-startos](https://github.com/Retropex/DeepSea-startos) | Retropex | — | 2026-03-23 |
 | [django-wedding-website-startos](https://github.com/dr-bonez/django-wedding-website-startos) | dr-bonez | ^0.4.0-beta.54 | 2026-03-06 |
 | [documenso-startos](https://github.com/dr-bonez/documenso-startos) | dr-bonez | 1.0.0 | 2026-04-16 |
-| [docuseal-startos](https://github.com/start9labs/docuseal-startos) | start9labs | 1.5.3 | 2026-06-15 |
+| [docuseal-startos](https://github.com/start9labs/docuseal-startos) | start9labs | 1.5.3 | 2026-06-22 |
 | [electrs-startos](https://github.com/Start9-Community/electrs-startos) | Start9-Community | 1.5.2 | 2026-06-10 |
 | [elektron-net-mempool-startos](https://github.com/kutlusoy/elektron-net-mempool-startos) | kutlusoy | — | 2026-06-15 |
-| [elektron-net-pool-startos](https://github.com/kutlusoy/elektron-net-pool-startos) | kutlusoy | 1.5.3 | 2026-06-22 |
+| [elektron-net-pool-startos](https://github.com/kutlusoy/elektron-net-pool-startos) | kutlusoy | 1.5.3 | 2026-06-23 |
 | [elektron-net-startos](https://github.com/kutlusoy/elektron-net-startos) | kutlusoy | 1.5.3 | 2026-06-21 |
 | [elektron-seeder-startos](https://github.com/kutlusoy/elektron-seeder-startos) | kutlusoy | ^1.5.3 | 2026-06-19 |
 | [evolu-relay-startos](https://github.com/rabbitholiness/evolu-relay-startos) | rabbitholiness | — | 2026-02-12 |
@@ -70,35 +71,36 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [filebrowser-startos](https://github.com/start9labs/filebrowser-startos) | start9labs | 1.5.3 | 2026-06-13 |
 | [flare-solverr-startos](https://github.com/saiththerobo/flare-solverr-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
 | [flowee-the-hub-startos](https://github.com/Start9-Community/flowee-the-hub-startos) | Start9-Community | ^1.2.1 | 2026-05-26 |
-| [forgejo-startos](https://github.com/Start9-Community/forgejo-startos) | Start9-Community | 1.5.3 | 2026-06-20 |
+| [forgejo-runner-startos](https://github.com/start9labs/forgejo-runner-startos) | start9labs | 1.5.3 | 2026-06-23 |
+| [forgejo-startos](https://github.com/start9labs/forgejo-startos) | start9labs | 1.5.3 | 2026-06-22 |
 | [formbricks-startos](https://github.com/ok/formbricks-startos) | ok | 1.5.0 | 2026-06-19 |
 | [frigate-startos](https://github.com/remcoros/frigate-startos) | remcoros | 1.5.3 | 2026-06-06 |
 | [fulcrum-bch-startos](https://github.com/Start9-Community/fulcrum-bch-startos) | Start9-Community | 1.0.0 | 2026-05-20 |
 | [fulcrum-startos](https://github.com/start9labs/fulcrum-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [garage-startos](https://github.com/start9labs/garage-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [ghost-startos](https://github.com/start9labs/ghost-startos) | start9labs | 1.5.3 | 2026-06-13 |
-| [gitea-startos](https://github.com/start9labs/gitea-startos) | start9labs | 1.5.3 | 2026-06-20 |
+| [gitea-startos](https://github.com/start9labs/gitea-startos) | start9labs | 1.5.3 | 2026-06-22 |
 | [haven-kit-startos](https://github.com/Letdown2491/haven-kit-startos) | Letdown2491 | 1.5.3 | 2026-06-21 |
 | [haven-startos](https://github.com/GyroJack/haven-startos) | GyroJack | 1.5.3 | 2026-06-10 |
 | [helipad-startos](https://github.com/Start9-Community/helipad-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [helix-home-startos](https://github.com/start9labs/helix-home-startos) | start9labs | 1.3.3 | 2026-05-13 |
 | [hello-world-startos](https://github.com/start9labs/hello-world-startos) | start9labs | 1.5.3 | 2026-06-03 |
-| [hermes-agent-startos](https://github.com/Start9-Community/hermes-agent-startos) | Start9-Community | 1.5.3 | 2026-06-20 |
+| [hermes-agent-startos](https://github.com/Start9-Community/hermes-agent-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [hermes-startos](https://github.com/andycreed0x/hermes-startos) | andycreed0x | 1.5.2 | 2026-05-21 |
 | [holesail-startos](https://github.com/Start9-Community/holesail-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [home-assistant-startos](https://github.com/start9labs/home-assistant-startos) | start9labs | 1.5.3 | 2026-06-20 |
 | [hypermind-startos](https://github.com/dr-bonez/hypermind-startos) | dr-bonez | ^0.4.0-beta.45 | 2026-01-06 |
-| [i2p-startos](https://github.com/Start9-Community/i2p-startos) | Start9-Community | 1.5.3 | 2026-06-16 |
+| [i2pd-startos](https://github.com/Start9-Community/i2pd-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [immich-startos](https://github.com/start9labs/immich-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [ipfs-startos](https://github.com/Start9-Community/ipfs-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
-| [isso-startos](https://github.com/Start9-Community/isso-startos) | Start9-Community | 1.5.3 | 2026-06-11 |
+| [isso-startos](https://github.com/Start9-Community/isso-startos) | Start9-Community | 1.5.3 | 2026-06-23 |
 | [jam-startos](https://github.com/start9labs/jam-startos) | start9labs | 1.3.3 | 2026-05-01 |
 | [jellyfin-startos](https://github.com/start9labs/jellyfin-startos) | start9labs | 1.5.3 | 2026-06-07 |
-| [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 1.5.3 | 2026-06-15 |
+| [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 1.5.3 | 2026-06-22 |
 | [joplin-server-startos](https://github.com/start9labs/joplin-server-startos) | start9labs | 1.5.3 | 2026-05-29 |
 | [karakeep-startos](https://github.com/saiththerobo/karakeep-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
 | [kathreftestr-startos](https://github.com/islandbitcoin/kathreftestr-startos) | islandbitcoin | 1.5.3 | 2026-06-15 |
-| [keep-startos](https://github.com/Start9-Community/keep-startos) | Start9-Community | 1.5.3 | 2026-06-20 |
+| [keep-startos](https://github.com/Start9-Community/keep-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [keycloak-startos](https://github.com/dr-bonez/keycloak-startos) | dr-bonez | ^0.4.0-beta.45 | 2026-01-09 |
 | [kindle-md-reader-startos](https://github.com/rocket-morgan/kindle-md-reader-startos) | rocket-morgan | — | 2026-03-16 |
 | [Knots-startos](https://github.com/f4phlyer2/Knots-startos) | f4phlyer2 | ^0.4.0-beta.46 | 2026-01-12 |
@@ -115,11 +117,13 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [mattermost-startos](https://github.com/start9labs/mattermost-startos) | start9labs | 1.5.3 | 2026-06-16 |
 | [mcp-server-startos](https://github.com/jeffreymsimon/mcp-server-startos) | jeffreymsimon | — | 2026-06-02 |
 | [mcserver-startos](https://github.com/crissuper20/mcserver-startos) | crissuper20 | ^0.4.0-beta.44 | 2026-03-13 |
+| [memos-startos](https://github.com/islandbitcoin/memos-startos) | islandbitcoin | ^1.5.3 | 2026-06-22 |
 | [mempool-startos](https://github.com/start9labs/mempool-startos) | start9labs | 1.5.3 | 2026-06-17 |
-| [metube-startos](https://github.com/Start9-Community/metube-startos) | Start9-Community | 1.3.2 | 2026-05-06 |
+| [metube-startos](https://github.com/Start9-Community/metube-startos) | Start9-Community | 1.5.3 | 2026-06-23 |
 | [minecraft-startos](https://github.com/Start9-Community/minecraft-startos) | Start9-Community | 1.5.2 | 2026-06-15 |
 | [moltbot-startos](https://github.com/andycreed0x/moltbot-startos) | andycreed0x | — | 2026-01-29 |
 | [monerod-startos](https://github.com/Start9-Community/monerod-startos) | Start9-Community | 1.5.3 | 2026-06-13 |
+| [mostro-startos](https://github.com/Start9-Community/mostro-startos) | Start9-Community | 1.5.3 | 2026-06-17 |
 | [myspeed-startos](https://github.com/Start9-Community/myspeed-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [n8n-startos](https://github.com/Start9-Community/n8n-startos) | Start9-Community | 1.5.3 | 2026-06-18 |
 | [namecoin-core-startos](https://github.com/Start9-Community/namecoin-core-startos) | Start9-Community | 1.5.3 | 2026-06-01 |
@@ -134,9 +138,9 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [odysseus-startos](https://github.com/saiththerobo/odysseus-startos) | saiththerobo | 1.5.3 | 2026-06-01 |
 | [ollama-startos](https://github.com/start9labs/ollama-startos) | start9labs | 1.5.3 | 2026-06-18 |
 | [open-webui-startos](https://github.com/start9labs/open-webui-startos) | start9labs | 1.5.3 | 2026-06-08 |
-| [openclaw-startos](https://github.com/Start9-Community/openclaw-startos) | Start9-Community | 1.5.2 | 2026-06-18 |
+| [openclaw-startos](https://github.com/Start9-Community/openclaw-startos) | Start9-Community | 1.5.2 | 2026-06-22 |
 | [owntracks-startos](https://github.com/stupleb/owntracks-startos) | stupleb | 1.5.2 | 2026-05-26 |
-| [pact-startos](https://github.com/islandbitcoin/pact-startos) | islandbitcoin | 1.5.3 | 2026-06-16 |
+| [pact-startos](https://github.com/Start9-Community/pact-startos) | Start9-Community | 1.5.3 | 2026-06-16 |
 | [pagecase-startos](https://github.com/ok/pagecase-startos) | ok | 1.5.2 | 2026-05-21 |
 | [paperclip-startos](https://github.com/start9labs/paperclip-startos) | start9labs | 1.5.3 | 2026-05-29 |
 | [paperless-startos](https://github.com/Start9-Community/paperless-startos) | Start9-Community | 1.5.3 | 2026-06-14 |
@@ -153,13 +157,13 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [pushtx-startos](https://github.com/remcoros/pushtx-startos) | remcoros | 1.5.1 | 2026-05-16 |
 | [qbittorrent-startos](https://github.com/start9labs/qbittorrent-startos) | start9labs | 1.5.3 | 2026-06-16 |
 | [radarr-startos](https://github.com/saiththerobo/radarr-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
-| [readstr-startos](https://github.com/privkeyio/readstr-startos) | privkeyio | — | 2026-06-22 |
+| [readstr-startos](https://github.com/Start9-Community/readstr-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [ride-the-lightning-startos](https://github.com/start9labs/ride-the-lightning-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [robosats-startos](https://github.com/start9labs/robosats-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [robosats-watcher-startos](https://github.com/louieo/robosats-watcher-startos) | louieo | ^1.2.0 | 2026-05-19 |
 | [routstrd-startos](https://github.com/GyroJack/routstrd-startos) | GyroJack | 1.5.3 | 2026-06-13 |
 | [searxng-api-startos](https://github.com/paulscode/searxng-api-startos) | paulscode | — | 2026-02-04 |
-| [searxng-startos](https://github.com/start9labs/searxng-startos) | start9labs | 1.5.3 | 2026-06-21 |
+| [searxng-startos](https://github.com/start9labs/searxng-startos) | start9labs | 1.5.3 | 2026-06-22 |
 | [serper-startos](https://github.com/paulscode/serper-startos) | paulscode | — | 2026-03-11 |
 | [signet-startos](https://github.com/Letdown2491/signet-startos) | Letdown2491 | 1.5.3 | 2026-06-10 |
 | [simplex-gateway-startos](https://github.com/Start9-Community/simplex-gateway-startos) | Start9-Community | ^1.5.3 | 2026-06-16 |
@@ -194,10 +198,10 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [vaultwarden-startos](https://github.com/start9labs/vaultwarden-startos) | start9labs | 1.5.3 | 2026-06-14 |
 | [verge-startos](https://github.com/tbtproductions/verge-startos) | tbtproductions | 1.5.3 | 2026-05-30 |
 | [vikunja-startos](https://github.com/Start9-Community/vikunja-startos) | Start9-Community | 1.5.3 | 2026-05-22 |
-| [vllm-startos](https://github.com/start9labs/vllm-startos) | start9labs | 1.5.3 | 2026-06-21 |
+| [vllm-startos](https://github.com/start9labs/vllm-startos) | start9labs | 1.5.3 | 2026-06-22 |
 | [warpgate-startos](https://github.com/saiththerobo/warpgate-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
 | [wasabi-webtop-startos](https://github.com/remcoros/wasabi-webtop-startos) | remcoros | 1.5.1 | 2026-06-20 |
-| [wisp-startos](https://github.com/privkeyio/wisp-startos) | privkeyio | 1.5.3 | 2026-06-22 |
+| [wisp-startos](https://github.com/Start9-Community/wisp-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [wordpress-startos](https://github.com/start9labs/wordpress-startos) | start9labs | 1.5.2 | 2026-05-27 |
 | [ytptube-startos](https://github.com/stupleb/ytptube-startos) | stupleb | 1.5.3 | 2026-06-13 |
 
@@ -226,7 +230,7 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [tapshell-startos](https://github.com/horologger/tapshell-startos) | horologger | — | 2025-07-07 |
 | [toshi-moto-startos](https://github.com/toshimoto821/toshi-moto-startos) | toshimoto821 | ^0.4.0-beta.41 | 2025-10-05 |
 
-## Older / unknown (61)
+## Older / unknown (60)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -267,7 +271,6 @@ _275 packages · 2026-06-22 · sources: start9labs, Start9-Community, public Git
 | [lndshell-startos](https://github.com/horologger/lndshell-startos) | horologger | — | 2024-02-02 |
 | [mail-in-a-box-startos](https://github.com/horologger/mail-in-a-box-startos) | horologger | — | 2024-06-04 |
 | [meshtastic-web-startos](https://github.com/auggie-lahey/meshtastic-web-startos) | auggie-lahey | 0.3.6-beta.1 | 2025-02-12 |
-| [mostro-startos](https://github.com/grunch/mostro-startos) | grunch | — | 2024-06-18 |
 | [mutiny-startos](https://github.com/MutinyWallet/mutiny-startos) | MutinyWallet | — | 2024-08-05 |
 | [nostr-wallet-connect-startos](https://github.com/horologger/nostr-wallet-connect-startos) | horologger | — | 2024-06-19 |
 | [nsecbunker-startos](https://github.com/hzrd149/nsecbunker-startos) | hzrd149 | — | 2024-04-16 |
