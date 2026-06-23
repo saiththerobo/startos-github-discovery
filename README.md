@@ -1,8 +1,8 @@
 # StartOS Packages
 
-_278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public GitHub_
+_273 packages · 2026-06-23 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (198)
+## Updated within 6 months (194)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -69,7 +69,6 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [fedimint-gateway-startos](https://github.com/Start9-Community/fedimint-gateway-startos) | Start9-Community | 1.5.3 | 2026-05-26 |
 | [fedimint-guardian-startos](https://github.com/Start9-Community/fedimint-guardian-startos) | Start9-Community | 1.5.2 | 2026-05-20 |
 | [filebrowser-startos](https://github.com/start9labs/filebrowser-startos) | start9labs | 1.5.3 | 2026-06-13 |
-| [flare-solverr-startos](https://github.com/saiththerobo/flare-solverr-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
 | [flowee-the-hub-startos](https://github.com/Start9-Community/flowee-the-hub-startos) | Start9-Community | ^1.2.1 | 2026-05-26 |
 | [forgejo-runner-startos](https://github.com/start9labs/forgejo-runner-startos) | start9labs | 1.5.3 | 2026-06-23 |
 | [forgejo-startos](https://github.com/start9labs/forgejo-startos) | start9labs | 1.5.3 | 2026-06-22 |
@@ -135,7 +134,6 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [ntfy-startos](https://github.com/start9labs/ntfy-startos) | start9labs | 1.5.3 | 2026-06-05 |
 | [nudge-startos](https://github.com/kylemccullen/nudge-startos) | kylemccullen | — | 2026-06-03 |
 | [ocean-terminal-startos](https://github.com/f4phlyer2/ocean-terminal-startos) | f4phlyer2 | ^0.4.0-beta.46 | 2026-01-12 |
-| [odysseus-startos](https://github.com/saiththerobo/odysseus-startos) | saiththerobo | 1.5.3 | 2026-06-01 |
 | [ollama-startos](https://github.com/start9labs/ollama-startos) | start9labs | 1.5.3 | 2026-06-18 |
 | [open-webui-startos](https://github.com/start9labs/open-webui-startos) | start9labs | 1.5.3 | 2026-06-08 |
 | [openclaw-startos](https://github.com/Start9-Community/openclaw-startos) | Start9-Community | 1.5.2 | 2026-06-22 |
@@ -156,7 +154,6 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [public-pool-web-startos](https://github.com/martinbarilik/public-pool-web-startos) | martinbarilik | 1.5.3 | 2026-06-06 |
 | [pushtx-startos](https://github.com/remcoros/pushtx-startos) | remcoros | 1.5.1 | 2026-05-16 |
 | [qbittorrent-startos](https://github.com/start9labs/qbittorrent-startos) | start9labs | 1.5.3 | 2026-06-16 |
-| [radarr-startos](https://github.com/saiththerobo/radarr-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
 | [readstr-startos](https://github.com/Start9-Community/readstr-startos) | Start9-Community | 1.5.3 | 2026-06-22 |
 | [ride-the-lightning-startos](https://github.com/start9labs/ride-the-lightning-startos) | start9labs | 1.5.3 | 2026-06-02 |
 | [robosats-startos](https://github.com/start9labs/robosats-startos) | start9labs | 1.5.3 | 2026-06-02 |
@@ -168,7 +165,6 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [signet-startos](https://github.com/Letdown2491/signet-startos) | Letdown2491 | 1.5.3 | 2026-06-10 |
 | [simplex-gateway-startos](https://github.com/Start9-Community/simplex-gateway-startos) | Start9-Community | ^1.5.3 | 2026-06-16 |
 | [simplex-startos](https://github.com/start9labs/simplex-startos) | start9labs | 1.5.3 | 2026-06-17 |
-| [sonarr-startos](https://github.com/saiththerobo/sonarr-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
 | [spaces-startos](https://github.com/horologger/spaces-startos) | horologger | — | 2026-05-09 |
 | [sparrow-frigate-startos](https://github.com/criptoworld8484/sparrow-frigate-startos) | criptoworld8484 | 1.5.3 | 2026-06-17 |
 | [sparrow-webtop-startos](https://github.com/remcoros/sparrow-webtop-startos) | remcoros | ^1.5.3 | 2026-06-18 |
@@ -230,7 +226,7 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [tapshell-startos](https://github.com/horologger/tapshell-startos) | horologger | — | 2025-07-07 |
 | [toshi-moto-startos](https://github.com/toshimoto821/toshi-moto-startos) | toshimoto821 | ^0.4.0-beta.41 | 2025-10-05 |
 
-## Older / unknown (60)
+## Older / unknown (59)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -242,7 +238,6 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [btcshell-orange-startos](https://github.com/horologger/btcshell-orange-startos) | horologger | — | 2024-07-30 |
 | [btcwhitepaper-startos](https://github.com/PlebRick/btcwhitepaper-startos) | PlebRick | 0.3.6-beta.1 | 2024-12-09 |
 | [cascdr-startos](https://github.com/uncleJim21/cascdr-startos) | uncleJim21 | — | 2024-02-08 |
-| [chamberlain-startos](https://github.com/sovereign-app/chamberlain-startos) | sovereign-app | — | 2024-11-19 |
 | [cicd-startos](https://github.com/auggie-lahey/cicd-startos) | auggie-lahey | 0.3.6-beta.1 | 2024-12-17 |
 | [clams-startos](https://github.com/farscapian/clams-startos) | farscapian | — | 2024-07-28 |
 | [coracle-startos](https://github.com/hzrd149/coracle-startos) | hzrd149 | — | 2024-02-07 |
@@ -263,7 +258,7 @@ _278 packages · 2026-06-23 · sources: start9labs, Start9-Community, public Git
 | [gotty-startos](https://github.com/horologger/gotty-startos) | horologger | — | 2024-11-05 |
 | [guardian-ui-startos](https://github.com/EthnTuttle/guardian-ui-startos) | EthnTuttle | — | 2024-01-24 |
 | [hello-mariadb-startos](https://github.com/remcoros/hello-mariadb-startos) | remcoros | — | 2024-10-06 |
-| [hello-moon-startos](https://github.com/aldum/hello-moon-startos) | aldum | 0.3.6-beta.13 | 2025-05-08 |
+| [hello-moon-startos](https://github.com/ramble-on-s9/hello-moon-startos) | ramble-on-s9 | 0.3.6-beta.3 | 2025-02-02 |
 | [hello-myworld-startos](https://github.com/horologger/hello-myworld-startos) | horologger | — | 2024-11-04 |
 | [hello-world40-startos](https://github.com/horologger/hello-world40-startos) | horologger | — | 2024-11-04 |
 | [kanbanstr-startos](https://github.com/auggie-lahey/kanbanstr-startos) | auggie-lahey | 0.3.6-beta.1 | 2025-01-08 |
