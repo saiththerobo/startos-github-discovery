@@ -1,8 +1,8 @@
 # StartOS Packages
 
-_293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public GitHub_
+_293 packages · 2026-07-16 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (211)
+## Updated within 6 months (210)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -31,12 +31,12 @@ _293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public Git
 | [bitcart-startos](https://github.com/CyberAshven/bitcart-startos) | CyberAshven | 1.0.0 | 2026-04-20 |
 | [bitcoin-cash-daemon-startos](https://github.com/Start9-Community/bitcoin-cash-daemon-startos) | Start9-Community | 1.5.3 | 2026-07-13 |
 | [bitcoin-cash-node-startos](https://github.com/Start9-Community/bitcoin-cash-node-startos) | Start9-Community | 1.5.3 | 2026-07-13 |
-| [bitcoin-core-startos](https://github.com/start9labs/bitcoin-core-startos) | start9labs | 1.5.3 | 2026-07-13 |
+| [bitcoin-core-startos](https://github.com/start9labs/bitcoin-core-startos) | start9labs | 1.5.3 | 2026-07-15 |
 | [bitcoin-explorer-startos](https://github.com/Start9-Community/bitcoin-explorer-startos) | Start9-Community | 1.5.2 | 2026-07-13 |
-| [bitcoin-knots-startos](https://github.com/start9labs/bitcoin-knots-startos) | start9labs | 1.5.3 | 2026-07-14 |
+| [bitcoin-knots-startos](https://github.com/start9labs/bitcoin-knots-startos) | start9labs | 1.5.3 | 2026-07-15 |
 | [bitnet-startos](https://github.com/horologger/bitnet-startos) | horologger | 1.3.3 | 2026-05-13 |
 | [blossom-server-startos](https://github.com/stupleb/blossom-server-startos) | stupleb | 1.5.0 | 2026-05-17 |
-| [bolt12-pay-startos](https://github.com/Start9-Community/bolt12-pay-startos) | Start9-Community | ^1.5.3 | 2026-07-13 |
+| [bolt12-pay-startos](https://github.com/Start9-Community/bolt12-pay-startos) | Start9-Community | ^1.5.3 | 2026-07-15 |
 | [broadcast-pool-startos](https://github.com/semillabitcoin/broadcast-pool-startos) | semillabitcoin | 1.0.0 | 2026-05-15 |
 | [btcpayserver-startos](https://github.com/start9labs/btcpayserver-startos) | start9labs | 1.5.3 | 2026-07-13 |
 | [btcshell-startos](https://github.com/horologger/btcshell-startos) | horologger | — | 2026-03-22 |
@@ -112,7 +112,6 @@ _293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public Git
 | [kathreftestr-startos](https://github.com/islandbitcoin/kathreftestr-startos) | islandbitcoin | 1.5.3 | 2026-06-15 |
 | [keep-startos](https://github.com/Start9-Community/keep-startos) | Start9-Community | 1.5.3 | 2026-07-13 |
 | [kindle-md-reader-startos](https://github.com/rocket-morgan/kindle-md-reader-startos) | rocket-morgan | — | 2026-03-16 |
-| [Knots-startos](https://github.com/f4phlyer2/Knots-startos) | f4phlyer2 | ^0.4.0-beta.46 | 2026-01-12 |
 | [knuth-bch-startos](https://github.com/BitcoinCash1/knuth-bch-startos) | BitcoinCash1 | 1.5.3 | 2026-07-11 |
 | [knuth-startos](https://github.com/BitcoinCash1/knuth-startos) | BitcoinCash1 | ^1.2.1 | 2026-04-24 |
 | [lawallet-startos](https://github.com/lawalletio/lawallet-startos) | lawalletio | 1.5.3 | 2026-07-10 |
@@ -121,7 +120,7 @@ _293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public Git
 | [lightning-terminal-startos](https://github.com/start9labs/lightning-terminal-startos) | start9labs | 1.5.3 | 2026-07-13 |
 | [llama-cpp-startos](https://github.com/start9labs/llama-cpp-startos) | start9labs | 1.5.3 | 2026-07-14 |
 | [lnbits-startos](https://github.com/start9labs/lnbits-startos) | start9labs | 1.5.3 | 2026-07-13 |
-| [lnd-startos](https://github.com/start9labs/lnd-startos) | start9labs | 1.5.3 | 2026-07-14 |
+| [lnd-startos](https://github.com/start9labs/lnd-startos) | start9labs | 1.5.3 | 2026-07-15 |
 | [lndg-startos](https://github.com/Start9-Community/lndg-startos) | Start9-Community | 1.5.2 | 2026-07-13 |
 | [magicwormholerelay-startos](https://github.com/JesseMarkowitz/magicwormholerelay-startos) | JesseMarkowitz | 2.0.1 | 2026-07-10 |
 | [mailflow-startos](https://github.com/saiththerobo/mailflow-startos) | saiththerobo | ^1.5.3 | 2026-06-15 |
@@ -130,7 +129,7 @@ _293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public Git
 | [mcp-server-startos](https://github.com/jeffreymsimon/mcp-server-startos) | jeffreymsimon | — | 2026-06-02 |
 | [mcserver-startos](https://github.com/crissuper20/mcserver-startos) | crissuper20 | ^0.4.0-beta.44 | 2026-03-13 |
 | [memos-startos](https://github.com/islandbitcoin/memos-startos) | islandbitcoin | ^1.5.3 | 2026-06-22 |
-| [mempool-startos](https://github.com/start9labs/mempool-startos) | start9labs | 1.5.3 | 2026-07-13 |
+| [mempool-startos](https://github.com/start9labs/mempool-startos) | start9labs | 1.5.3 | 2026-07-16 |
 | [metube-startos](https://github.com/Start9-Community/metube-startos) | Start9-Community | 1.5.3 | 2026-07-13 |
 | [minecraft-startos](https://github.com/Start9-Community/minecraft-startos) | Start9-Community | 1.5.2 | 2026-07-13 |
 | [moltbot-startos](https://github.com/andycreed0x/moltbot-startos) | andycreed0x | — | 2026-01-29 |
@@ -218,7 +217,7 @@ _293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public Git
 | [wordpress-startos](https://github.com/start9labs/wordpress-startos) | start9labs | 1.5.2 | 2026-05-27 |
 | [ytptube-startos](https://github.com/stupleb/ytptube-startos) | stupleb | 1.5.3 | 2026-06-13 |
 
-## Updated within 1 year (22)
+## Updated within 1 year (23)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -234,6 +233,7 @@ _293 packages · 2026-07-15 · sources: start9labs, Start9-Community, public Git
 | [hello-startos](https://github.com/omargarcia01/hello-startos) | omargarcia01 | ^0.4.0-beta.43 | 2025-11-16 |
 | [hypermind-startos](https://github.com/dr-bonez/hypermind-startos) | dr-bonez | ^0.4.0-beta.45 | 2026-01-06 |
 | [keycloak-startos](https://github.com/dr-bonez/keycloak-startos) | dr-bonez | ^0.4.0-beta.45 | 2026-01-09 |
+| [Knots-startos](https://github.com/f4phlyer2/Knots-startos) | f4phlyer2 | ^0.4.0-beta.46 | 2026-01-12 |
 | [lnd-backup-startos](https://github.com/remcoros/lnd-backup-startos) | remcoros | — | 2025-10-29 |
 | [newt-040-startos](https://github.com/gillohner/newt-040-startos) | gillohner | — | 2025-11-10 |
 | [newt-startos](https://github.com/gillohner/newt-startos) | gillohner | ^0.4.0-beta.41 | 2025-11-14 |
