@@ -1,15 +1,15 @@
 # StartOS Packages
 
-_295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public GitHub_
+_296 packages · 2026-07-19 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (212)
+## Updated within 6 months (214)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
 | [-ckpool-bch-startos](https://github.com/AwfulWaffleMining/-ckpool-bch-startos) | AwfulWaffleMining | 1.5.2 | 2026-05-27 |
 | [act-runner-startos](https://github.com/Warfields/act-runner-startos) | Warfields | ^0.4.0-beta.58 | 2026-03-09 |
 | [actual-budget-startos](https://github.com/start9labs/actual-budget-startos) | start9labs | 1.5.3 | 2026-07-17 |
-| [admintools-startos](https://github.com/JesseMarkowitz/admintools-startos) | JesseMarkowitz | — | 2026-06-12 |
+| [admintools-startos](https://github.com/JesseMarkowitz/admintools-startos) | JesseMarkowitz | — | 2026-07-19 |
 | [agent-wallet-startos](https://github.com/paulscode/agent-wallet-startos) | paulscode | 1.5.2 | 2026-07-02 |
 | [albyhub-startos](https://github.com/start9labs/albyhub-startos) | start9labs | 1.5.3 | 2026-07-17 |
 | [am-i-exposed-startos](https://github.com/start9labs/am-i-exposed-startos) | start9labs | 1.5.3 | 2026-07-17 |
@@ -54,7 +54,7 @@ _295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public Git
 | [clams-remote-startos](https://github.com/Start9-Community/clams-remote-startos) | Start9-Community | 1.5.2 | 2026-07-17 |
 | [cln-startos](https://github.com/start9labs/cln-startos) | start9labs | 1.5.3 | 2026-07-17 |
 | [cloudflared-startos](https://github.com/remcoros/cloudflared-startos) | remcoros | 1.5.1 | 2026-06-19 |
-| [cognee-startos](https://github.com/tylerkstevens/cognee-startos) | tylerkstevens | 1.5.3 | 2026-07-11 |
+| [cognee-startos](https://github.com/tylerkstevens/cognee-startos) | tylerkstevens | 1.5.3 | 2026-07-19 |
 | [corvin-startos](https://github.com/Letdown2491/corvin-startos) | Letdown2491 | 1.5.3 | 2026-06-06 |
 | [coturn-startos](https://github.com/start9labs/coturn-startos) | start9labs | 1.5.3 | 2026-07-17 |
 | [couchdb-startos](https://github.com/nfealey/couchdb-startos) | nfealey | 1.5.3 | 2026-07-06 |
@@ -69,6 +69,7 @@ _295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public Git
 | [electrs-liquid-startos](https://github.com/paulscode/electrs-liquid-startos) | paulscode | 1.5.2 | 2026-06-23 |
 | [electrs-startos](https://github.com/Start9-Community/electrs-startos) | Start9-Community | 1.5.2 | 2026-07-17 |
 | [elektron-net-faucet-startos](https://github.com/kutlusoy/elektron-net-faucet-startos) | kutlusoy | 1.5.3 | 2026-07-13 |
+| [elektron-net-lnd-startos](https://github.com/kutlusoy/elektron-net-lnd-startos) | kutlusoy | — | 2026-07-19 |
 | [elektron-net-mempool-startos](https://github.com/kutlusoy/elektron-net-mempool-startos) | kutlusoy | — | 2026-06-15 |
 | [elektron-net-pool-startos](https://github.com/kutlusoy/elektron-net-pool-startos) | kutlusoy | 1.5.3 | 2026-07-17 |
 | [elektron-net-ppool-startos](https://github.com/kutlusoy/elektron-net-ppool-startos) | kutlusoy | 1.5.3 | 2026-07-04 |
@@ -142,7 +143,7 @@ _295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public Git
 | [next-block-startos](https://github.com/4rkad/next-block-startos) | 4rkad | 1.3.2 | 2026-05-13 |
 | [nextcloud-startos](https://github.com/start9labs/nextcloud-startos) | start9labs | 1.5.3 | 2026-07-17 |
 | [nip46-relay-startos](https://github.com/Letdown2491/nip46-relay-startos) | Letdown2491 | 1.5.1 | 2026-06-15 |
-| [nitter-startos](https://github.com/stupleb/nitter-startos) | stupleb | 1.5.3 | 2026-07-06 |
+| [nitter-startos](https://github.com/stupleb/nitter-startos) | stupleb | 2.0.5 | 2026-07-18 |
 | [nocturne-startos](https://github.com/mysticrooster/nocturne-startos) | mysticrooster | 1.5.3 | 2026-07-02 |
 | [node-runner-startos](https://github.com/Start9-Community/node-runner-startos) | Start9-Community | 1.3.2 | 2026-04-25 |
 | [nostr-rs-relay-startos](https://github.com/start9labs/nostr-rs-relay-startos) | start9labs | 1.5.3 | 2026-07-17 |
@@ -200,7 +201,8 @@ _295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public Git
 | [taiga-startos](https://github.com/ok/taiga-startos) | ok | 1.5.0 | 2026-06-19 |
 | [tailrelay-startos](https://github.com/sudocarlos/tailrelay-startos) | sudocarlos | — | 2026-07-17 |
 | [tailscale-startos](https://github.com/Start9-Community/tailscale-startos) | Start9-Community | 1.5.3 | 2026-07-17 |
-| [teapot-startos](https://github.com/stupleb/teapot-startos) | stupleb | 1.5.3 | 2026-07-06 |
+| [teapot-startos](https://github.com/stupleb/teapot-startos) | stupleb | 2.0.6 | 2026-07-18 |
+| [test-startos](https://github.com/JesseMarkowitz/test-startos) | JesseMarkowitz | ^0.4.0-beta.48 | 2026-02-11 |
 | [thunderhub-startos](https://github.com/Start9-Community/thunderhub-startos) | Start9-Community | 1.5.3 | 2026-07-17 |
 | [todo-startos](https://github.com/carlosjackkal/todo-startos) | carlosjackkal | 1.0.0 | 2026-04-21 |
 | [tor-startos](https://github.com/start9labs/tor-startos) | start9labs | 1.5.3 | 2026-07-17 |
@@ -219,7 +221,7 @@ _295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public Git
 | [wordpress-startos](https://github.com/start9labs/wordpress-startos) | start9labs | 1.5.2 | 2026-05-27 |
 | [ytptube-startos](https://github.com/stupleb/ytptube-startos) | stupleb | 1.5.3 | 2026-06-13 |
 
-## Updated within 1 year (23)
+## Updated within 1 year (22)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -244,7 +246,6 @@ _295 packages · 2026-07-18 · sources: start9labs, Start9-Community, public Git
 | [pkdns-startos](https://github.com/horologger/pkdns-startos) | horologger | ^0.4.0-beta.43 | 2025-11-13 |
 | [spaces-hex-tool-startos](https://github.com/horologger/spaces-hex-tool-startos) | horologger | — | 2025-11-11 |
 | [tabconf-test-startos](https://github.com/gratten/tabconf-test-startos) | gratten | — | 2025-10-13 |
-| [test-startos](https://github.com/supersuryaansh/test-startos) | supersuryaansh | ^0.4.0-beta.45 | 2025-12-21 |
 | [toshi-moto-startos](https://github.com/toshimoto821/toshi-moto-startos) | toshimoto821 | ^0.4.0-beta.41 | 2025-10-05 |
 
 ## Older / unknown (60)
