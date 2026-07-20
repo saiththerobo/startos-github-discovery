@@ -1,6 +1,6 @@
 # StartOS Packages
 
-_296 packages · 2026-07-19 · sources: start9labs, Start9-Community, public GitHub_
+_296 packages · 2026-07-20 · sources: start9labs, Start9-Community, public GitHub_
 
 ## Updated within 6 months (214)
 
@@ -54,7 +54,7 @@ _296 packages · 2026-07-19 · sources: start9labs, Start9-Community, public Git
 | [clams-remote-startos](https://github.com/Start9-Community/clams-remote-startos) | Start9-Community | 1.5.2 | 2026-07-17 |
 | [cln-startos](https://github.com/start9labs/cln-startos) | start9labs | 1.5.3 | 2026-07-17 |
 | [cloudflared-startos](https://github.com/remcoros/cloudflared-startos) | remcoros | 1.5.1 | 2026-06-19 |
-| [cognee-startos](https://github.com/tylerkstevens/cognee-startos) | tylerkstevens | 1.5.3 | 2026-07-19 |
+| [cognee-startos](https://github.com/tylerkstevens/cognee-startos) | tylerkstevens | 1.5.3 | 2026-07-20 |
 | [corvin-startos](https://github.com/Letdown2491/corvin-startos) | Letdown2491 | 1.5.3 | 2026-06-06 |
 | [coturn-startos](https://github.com/start9labs/coturn-startos) | start9labs | 1.5.3 | 2026-07-17 |
 | [couchdb-startos](https://github.com/nfealey/couchdb-startos) | nfealey | 1.5.3 | 2026-07-06 |
@@ -107,7 +107,7 @@ _296 packages · 2026-07-19 · sources: start9labs, Start9-Community, public Git
 | [isso-startos](https://github.com/Start9-Community/isso-startos) | Start9-Community | 1.5.3 | 2026-07-17 |
 | [jam-startos](https://github.com/start9labs/jam-startos) | start9labs | 1.3.3 | 2026-05-01 |
 | [jellyfin-startos](https://github.com/start9labs/jellyfin-startos) | start9labs | 1.5.3 | 2026-07-17 |
-| [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 1.5.3 | 2026-07-17 |
+| [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 1.5.3 | 2026-07-19 |
 | [joinstr-startos](https://github.com/joinstr-startos/joinstr-startos) | joinstr-startos | — | 2026-07-13 |
 | [joplin-server-startos](https://github.com/start9labs/joplin-server-startos) | start9labs | 1.5.3 | 2026-05-29 |
 | [karakeep-startos](https://github.com/saiththerobo/karakeep-startos) | saiththerobo | 1.5.3 | 2026-06-15 |
