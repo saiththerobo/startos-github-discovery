@@ -1,8 +1,8 @@
 # StartOS Packages
 
-_309 packages · 2026-08-10 · sources: start9labs, Start9-Community, public GitHub_
+_310 packages · 2026-08-11 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (231)
+## Updated within 6 months (232)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -38,17 +38,18 @@ _309 packages · 2026-08-10 · sources: start9labs, Start9-Community, public Git
 | [bitcoin-explorer-startos](https://github.com/Start9-Community/bitcoin-explorer-startos) | Start9-Community | 2.0.9 | 2026-07-25 |
 | [bitcoin-knots-startos](https://github.com/start9labs/bitcoin-knots-startos) | start9labs | 2.0.9 | 2026-08-07 |
 | [bitnet-startos](https://github.com/horologger/bitnet-startos) | horologger | 1.3.3 | 2026-05-13 |
+| [blockstream-blind-oracle-startos](https://github.com/Start9-Community/blockstream-blind-oracle-startos) | Start9-Community | 2.0.9 | 2026-08-11 |
 | [blossom-server-startos](https://github.com/stupleb/blossom-server-startos) | stupleb | 2.0.6 | 2026-07-21 |
 | [bolt12-pay-startos](https://github.com/Start9-Community/bolt12-pay-startos) | Start9-Community | 2.0.9 | 2026-07-28 |
 | [braiins-manager-agent-startos](https://github.com/tgr-braiins/braiins-manager-agent-startos) | tgr-braiins | 2.0.9 | 2026-08-07 |
 | [broadcast-pool-startos](https://github.com/semillabitcoin/broadcast-pool-startos) | semillabitcoin | 1.0.0 | 2026-05-15 |
-| [btc-yield-autopilot-startos](https://github.com/syedasaadbilal-afk/btc-yield-autopilot-startos) | syedasaadbilal-afk | ^1.5.3 | 2026-08-10 |
+| [btc-yield-autopilot-startos](https://github.com/syedasaadbilal-afk/btc-yield-autopilot-startos) | syedasaadbilal-afk | ^1.5.3 | 2026-08-11 |
 | [btcpayserver-startos](https://github.com/start9labs/btcpayserver-startos) | start9labs | 2.0.9 | 2026-08-07 |
 | [btcshell-startos](https://github.com/horologger/btcshell-startos) | horologger | — | 2026-03-22 |
 | [btcwhitepaper-startos](https://github.com/DigiMonk73/btcwhitepaper-startos) | DigiMonk73 | 0.3.6-beta.1 | 2026-08-09 |
 | [bunker46-startos](https://github.com/Start9-Community/bunker46-startos) | Start9-Community | 2.0.9 | 2026-07-25 |
-| [buzz-relay-startos](https://github.com/privkeyio/buzz-relay-startos) | privkeyio | 2.0.6 | 2026-08-08 |
-| [buzz-startos](https://github.com/mdubore/buzz-startos) | mdubore | 2.0.9 | 2026-08-06 |
+| [buzz-relay-startos](https://github.com/privkeyio/buzz-relay-startos) | privkeyio | 2.0.6 | 2026-08-10 |
+| [buzz-startos](https://github.com/mdubore/buzz-startos) | mdubore | 2.0.9 | 2026-08-10 |
 | [cal-diy-startos](https://github.com/start9labs/cal-diy-startos) | start9labs | 2.0.9 | 2026-08-03 |
 | [calibre-content-server-startos](https://github.com/saiththerobo/calibre-content-server-startos) | saiththerobo | 1.5.3 | 2026-05-29 |
 | [canary-mining-startos](https://github.com/schjonhaug/canary-mining-startos) | schjonhaug | ^1.4.1 | 2026-06-11 |
@@ -112,10 +113,10 @@ _309 packages · 2026-08-10 · sources: start9labs, Start9-Community, public Git
 | [home-assistant-startos](https://github.com/start9labs/home-assistant-startos) | start9labs | 2.0.9 | 2026-08-08 |
 | [i2pd-startos](https://github.com/Start9-Community/i2pd-startos) | Start9-Community | 2.0.9 | 2026-07-31 |
 | [immich-startos](https://github.com/start9labs/immich-startos) | start9labs | 2.0.9 | 2026-08-07 |
+| [inbucket-startos](https://github.com/alextab93/inbucket-startos) | alextab93 | 2.0.9 | 2026-08-11 |
 | [invidious-startos](https://github.com/stupleb/invidious-startos) | stupleb | 2.0.6 | 2026-08-05 |
 | [ipfs-startos](https://github.com/Start9-Community/ipfs-startos) | Start9-Community | 2.0.9 | 2026-07-25 |
 | [isso-startos](https://github.com/Start9-Community/isso-startos) | Start9-Community | 2.0.9 | 2026-07-25 |
-| [jade-blind-oracle-startos](https://github.com/Start9-Community/jade-blind-oracle-startos) | Start9-Community | 2.0.9 | 2026-08-08 |
 | [jam-startos](https://github.com/start9labs/jam-startos) | start9labs | 1.3.3 | 2026-07-31 |
 | [jellyfin-startos](https://github.com/start9labs/jellyfin-startos) | start9labs | 2.0.9 | 2026-07-25 |
 | [jitsi-startos](https://github.com/start9labs/jitsi-startos) | start9labs | 2.0.9 | 2026-08-08 |
