@@ -1,6 +1,6 @@
 # StartOS Packages
 
-_342 packages · 2026-08-28 · sources: start9labs, Start9-Community, public GitHub_
+_342 packages · 2026-08-29 · sources: start9labs, Start9-Community, public GitHub_
 
 ## Updated within 6 months (261)
 
@@ -86,7 +86,7 @@ _342 packages · 2026-08-28 · sources: start9labs, Start9-Community, public Git
 | [docuseal-startos](https://github.com/start9labs/docuseal-startos) | start9labs | 2.0.9 | 2026-08-25 |
 | [dojo-startos](https://github.com/Start9-Community/dojo-startos) | Start9-Community | 2.0.9 | 2026-08-24 |
 | [electrs-liquid-startos](https://github.com/paulscode/electrs-liquid-startos) | paulscode | 1.5.2 | 2026-06-23 |
-| [electrs-pruned-startos](https://github.com/paulscode/electrs-pruned-startos) | paulscode | 2.0.9 | 2026-08-27 |
+| [electrs-pruned-startos](https://github.com/paulscode/electrs-pruned-startos) | paulscode | 2.0.9 | 2026-08-28 |
 | [electrs-startos](https://github.com/start9labs/electrs-startos) | start9labs | 2.0.9 | 2026-08-28 |
 | [elektron-net-faucet-startos](https://github.com/kutlusoy/elektron-net-faucet-startos) | kutlusoy | 1.5.3 | 2026-07-13 |
 | [elektron-net-lnd-startos](https://github.com/kutlusoy/elektron-net-lnd-startos) | kutlusoy | — | 2026-07-19 |
@@ -128,7 +128,7 @@ _342 packages · 2026-08-28 · sources: start9labs, Start9-Community, public Git
 | [hermes-startos](https://github.com/andycreed0x/hermes-startos) | andycreed0x | 1.5.2 | 2026-05-21 |
 | [holesail-startos](https://github.com/Start9-Community/holesail-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
 | [home-assistant-startos](https://github.com/start9labs/home-assistant-startos) | start9labs | 2.0.9 | 2026-08-22 |
-| [i2pd-startos](https://github.com/Start9-Community/i2pd-startos) | Start9-Community | 2.0.9 | 2026-08-28 |
+| [i2pd-startos](https://github.com/start9labs/i2pd-startos) | start9labs | 2.0.9 | 2026-08-28 |
 | [immich-startos](https://github.com/start9labs/immich-startos) | start9labs | 2.0.9 | 2026-08-24 |
 | [inbucket-startos](https://github.com/Start9-Community/inbucket-startos) | Start9-Community | 2.0.9 | 2026-08-27 |
 | [invidious-startos](https://github.com/stupleb/invidious-startos) | stupleb | 2.0.6 | 2026-08-05 |
@@ -144,7 +144,7 @@ _342 packages · 2026-08-28 · sources: start9labs, Start9-Community, public Git
 | [kathreftestr-startos](https://github.com/islandbitcoin/kathreftestr-startos) | islandbitcoin | 1.5.3 | 2026-06-15 |
 | [keep-startos](https://github.com/Start9-Community/keep-startos) | Start9-Community | 2.0.9 | 2026-08-24 |
 | [kindle-md-reader-startos](https://github.com/rocket-morgan/kindle-md-reader-startos) | rocket-morgan | — | 2026-03-16 |
-| [knots-blake2b-startos](https://github.com/paulscode/knots-blake2b-startos) | paulscode | 2.0.9 | 2026-08-27 |
+| [knots-blake2b-startos](https://github.com/paulscode/knots-blake2b-startos) | paulscode | 2.0.9 | 2026-08-28 |
 | [knots-prerdts-startos](https://github.com/paulscode/knots-prerdts-startos) | paulscode | 2.0.9 | 2026-08-27 |
 | [knots-rdts-startos](https://github.com/paulscode/knots-rdts-startos) | paulscode | 2.0.9 | 2026-08-27 |
 | [knuth-bch-startos](https://github.com/Start9-Community/knuth-bch-startos) | Start9-Community | 2.0.9 | 2026-08-24 |
@@ -177,7 +177,7 @@ _342 packages · 2026-08-28 · sources: start9labs, Start9-Community, public Git
 | [multi-scrobbler-startos](https://github.com/Start9-Community/multi-scrobbler-startos) | Start9-Community | 2.0.9 | 2026-08-27 |
 | [myspeed-startos](https://github.com/Start9-Community/myspeed-startos) | Start9-Community | 2.0.9 | 2026-08-24 |
 | [n8n-startos](https://github.com/Start9-Community/n8n-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
-| [namecoin-core-startos](https://github.com/Start9-Community/namecoin-core-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
+| [namecoin-core-startos](https://github.com/Start9-Community/namecoin-core-startos) | Start9-Community | 2.0.9 | 2026-08-28 |
 | [navidrome-startos](https://github.com/Start9-Community/navidrome-startos) | Start9-Community | 2.0.9 | 2026-08-27 |
 | [next-block-startos](https://github.com/4rkad/next-block-startos) | 4rkad | 1.3.2 | 2026-05-13 |
 | [nextcloud-startos](https://github.com/start9labs/nextcloud-startos) | start9labs | 2.0.9 | 2026-08-25 |
@@ -228,8 +228,8 @@ _342 packages · 2026-08-28 · sources: start9labs, Start9-Community, public Git
 | [searxng-startos](https://github.com/start9labs/searxng-startos) | start9labs | 2.0.9 | 2026-08-28 |
 | [serper-startos](https://github.com/paulscode/serper-startos) | paulscode | 1.5.2 | 2026-06-26 |
 | [signet-startos](https://github.com/Letdown2491/signet-startos) | Letdown2491 | 1.5.3 | 2026-06-29 |
-| [simplex-startos](https://github.com/start9labs/simplex-startos) | start9labs | 2.0.9 | 2026-08-18 |
-| [simplex-websocket-bridge-startos](https://github.com/Start9-Community/simplex-websocket-bridge-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
+| [simplex-startos](https://github.com/start9labs/simplex-startos) | start9labs | 2.0.9 | 2026-08-28 |
+| [simplex-websocket-bridge-startos](https://github.com/Start9-Community/simplex-websocket-bridge-startos) | Start9-Community | 2.0.9 | 2026-08-28 |
 | [spaces-startos](https://github.com/horologger/spaces-startos) | horologger | — | 2026-05-09 |
 | [sparrow-webtop-startos](https://github.com/remcoros/sparrow-webtop-startos) | remcoros | 2.0.9 | 2026-08-28 |
 | [specter-startos](https://github.com/Start9-Community/specter-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
