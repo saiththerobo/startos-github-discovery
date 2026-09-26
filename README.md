@@ -1,8 +1,8 @@
 # StartOS Packages
 
-_376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public GitHub_
+_379 packages · 2026-09-26 · sources: start9labs, Start9-Community, public GitHub_
 
-## Updated within 6 months (288)
+## Updated within 6 months (291)
 
 | Package | Maintainer | SDK version | Last updated |
 | --- | --- | --- | --- |
@@ -47,6 +47,7 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [blockstream-blind-oracle-startos](https://github.com/Start9-Community/blockstream-blind-oracle-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
 | [blossom-server-startos](https://github.com/stupleb/blossom-server-startos) | stupleb | 2.0.9 | 2026-09-19 |
 | [bolt12-pay-startos](https://github.com/Start9-Community/bolt12-pay-startos) | Start9-Community | 2.0.9 | 2026-09-11 |
+| [bookshelfng-startos](https://github.com/snapetech/bookshelfng-startos) | snapetech | 2.0.9 | 2026-09-25 |
 | [braiins-manager-agent-startos](https://github.com/tgr-braiins/braiins-manager-agent-startos) | tgr-braiins | 2.0.9 | 2026-08-07 |
 | [broadcast-pool-startos](https://github.com/semillabitcoin/broadcast-pool-startos) | semillabitcoin | 1.0.0 | 2026-05-15 |
 | [browser-arcade-startos](https://github.com/alextab93/browser-arcade-startos) | alextab93 | 2.0.9 | 2026-08-14 |
@@ -93,7 +94,7 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [eclair-startos](https://github.com/start9labs/eclair-startos) | start9labs | 2.0.9 | 2026-09-21 |
 | [electrs-liquid-startos](https://github.com/paulscode/electrs-liquid-startos) | paulscode | 1.5.2 | 2026-06-23 |
 | [electrs-pruned-startos](https://github.com/paulscode/electrs-pruned-startos) | paulscode | 2.0.9 | 2026-09-25 |
-| [electrs-startos](https://github.com/start9labs/electrs-startos) | start9labs | 2.0.9 | 2026-09-23 |
+| [electrs-startos](https://github.com/start9labs/electrs-startos) | start9labs | 2.0.9 | 2026-09-25 |
 | [elektron-net-faucet-startos](https://github.com/kutlusoy/elektron-net-faucet-startos) | kutlusoy | 1.5.3 | 2026-07-13 |
 | [elektron-net-lnd-startos](https://github.com/kutlusoy/elektron-net-lnd-startos) | kutlusoy | — | 2026-07-19 |
 | [elektron-net-mempool-startos](https://github.com/kutlusoy/elektron-net-mempool-startos) | kutlusoy | — | 2026-06-15 |
@@ -120,11 +121,11 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [fulcrum-startos](https://github.com/start9labs/fulcrum-startos) | start9labs | 2.0.9 | 2026-09-23 |
 | [garage-startos](https://github.com/start9labs/garage-startos) | start9labs | 2.0.9 | 2026-09-08 |
 | [ghost-startos](https://github.com/start9labs/ghost-startos) | start9labs | 2.0.9 | 2026-09-23 |
-| [gitea-runner-startos](https://github.com/start9labs/gitea-runner-startos) | start9labs | 2.0.9 | 2026-09-15 |
+| [gitea-runner-startos](https://github.com/start9labs/gitea-runner-startos) | start9labs | 2.0.9 | 2026-09-25 |
 | [gitea-startos](https://github.com/start9labs/gitea-startos) | start9labs | 2.0.9 | 2026-08-30 |
 | [gitlab-runner-startos](https://github.com/paulscode/gitlab-runner-startos) | paulscode | 2.0.9 | 2026-08-16 |
 | [gitlab-startos](https://github.com/paulscode/gitlab-startos) | paulscode | 2.0.9 | 2026-08-16 |
-| [go-quai-startos](https://github.com/Start9-Community/go-quai-startos) | Start9-Community | 2.0.9 | 2026-09-24 |
+| [go-quai-startos](https://github.com/Start9-Community/go-quai-startos) | Start9-Community | 2.0.9 | 2026-09-25 |
 | [gods-eye-view-startos](https://github.com/Start9-Community/gods-eye-view-startos) | Start9-Community | 2.0.9 | 2026-09-17 |
 | [gridpool-blake2b-startos](https://github.com/gridlabs-science/gridpool-blake2b-startos) | gridlabs-science | 2.0.9 | 2026-09-04 |
 | [gridpool-startos](https://github.com/gridlabs-science/gridpool-startos) | gridlabs-science | 2.0.9 | 2026-09-15 |
@@ -134,7 +135,7 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [helipad-startos](https://github.com/Start9-Community/helipad-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
 | [helix-home-startos](https://github.com/start9labs/helix-home-startos) | start9labs | 1.3.3 | 2026-08-12 |
 | [hello-world-startos](https://github.com/start9labs/hello-world-startos) | start9labs | 2.0.9 | 2026-08-18 |
-| [hermes-agent-startos](https://github.com/Start9-Community/hermes-agent-startos) | Start9-Community | 2.0.9 | 2026-09-22 |
+| [hermes-agent-startos](https://github.com/Start9-Community/hermes-agent-startos) | Start9-Community | 2.0.9 | 2026-09-25 |
 | [hermes-bridge-startos](https://github.com/serverstick/hermes-bridge-startos) | serverstick | 1.5.3 | 2026-08-12 |
 | [hermes-startos](https://github.com/andycreed0x/hermes-startos) | andycreed0x | 1.5.2 | 2026-05-21 |
 | [holesail-startos](https://github.com/Start9-Community/holesail-startos) | Start9-Community | 2.0.9 | 2026-09-23 |
@@ -168,7 +169,7 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [lightning-server-startos](https://github.com/islandbitcoin/lightning-server-startos) | islandbitcoin | ^1.5.3 | 2026-06-26 |
 | [lightning-terminal-startos](https://github.com/start9labs/lightning-terminal-startos) | start9labs | 2.0.9 | 2026-09-17 |
 | [linkwarden-startos](https://github.com/Start9-Community/linkwarden-startos) | Start9-Community | 2.0.9 | 2026-09-01 |
-| [llama-cpp-startos](https://github.com/start9labs/llama-cpp-startos) | start9labs | 2.0.9 | 2026-09-24 |
+| [llama-cpp-startos](https://github.com/start9labs/llama-cpp-startos) | start9labs | 2.0.9 | 2026-09-25 |
 | [lnbits-startos](https://github.com/start9labs/lnbits-startos) | start9labs | 2.0.9 | 2026-09-19 |
 | [lnd-startos](https://github.com/start9labs/lnd-startos) | start9labs | 2.0.9 | 2026-09-25 |
 | [lndg-startos](https://github.com/Start9-Community/lndg-startos) | Start9-Community | 2.0.9 | 2026-08-30 |
@@ -232,7 +233,7 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [pushtx-startos](https://github.com/remcoros/pushtx-startos) | remcoros | 2.0.9 | 2026-08-07 |
 | [pyblock-miner-startos](https://github.com/alextab93/pyblock-miner-startos) | alextab93 | 2.0.9 | 2026-09-21 |
 | [qbittorrent-startos](https://github.com/start9labs/qbittorrent-startos) | start9labs | 2.0.9 | 2026-09-18 |
-| [quai-dashboard-startos](https://github.com/Start9-Community/quai-dashboard-startos) | Start9-Community | 2.0.9 | 2026-09-24 |
+| [quai-dashboard-startos](https://github.com/Start9-Community/quai-dashboard-startos) | Start9-Community | 2.0.9 | 2026-09-25 |
 | [radicale-startos](https://github.com/start9labs/radicale-startos) | start9labs | — | 2026-09-15 |
 | [readstr-startos](https://github.com/Start9-Community/readstr-startos) | Start9-Community | 2.0.9 | 2026-08-18 |
 | [reticulum-meshchat-startos](https://github.com/Start9-Community/reticulum-meshchat-startos) | Start9-Community | 2.0.9 | 2026-09-22 |
@@ -241,18 +242,20 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [robosats-watcher-startos](https://github.com/louieo/robosats-watcher-startos) | louieo | ^1.2.0 | 2026-05-19 |
 | [romm-startos](https://github.com/Start9-Community/romm-startos) | Start9-Community | 2.0.9 | 2026-09-22 |
 | [routstrd-startos](https://github.com/GyroJack/routstrd-startos) | GyroJack | 1.5.3 | 2026-06-13 |
-| [rustdesk-server-startos](https://github.com/JesseMarkowitz/rustdesk-server-startos) | JesseMarkowitz | 2.0.9 | 2026-09-25 |
+| [rustdesk-server-startos](https://github.com/Start9-Community/rustdesk-server-startos) | Start9-Community | 2.0.9 | 2026-09-25 |
 | [sabi9-startos](https://github.com/kravens/sabi9-startos) | kravens | 1.5.3 | 2026-07-28 |
 | [satd-startos](https://github.com/Start9-Community/satd-startos) | Start9-Community | 2.0.9 | 2026-09-20 |
 | [satori-startos](https://github.com/Letdown2491/satori-startos) | Letdown2491 | 1.5.3 | 2026-08-02 |
 | [scriptwerk-startos](https://github.com/Start9-Community/scriptwerk-startos) | Start9-Community | 2.0.9 | 2026-09-22 |
-| [searxng-startos](https://github.com/start9labs/searxng-startos) | start9labs | 2.0.9 | 2026-09-23 |
+| [searxng-startos](https://github.com/start9labs/searxng-startos) | start9labs | 2.0.9 | 2026-09-25 |
+| [seerrng-startos](https://github.com/snapetech/seerrng-startos) | snapetech | 2.0.9 | 2026-09-25 |
 | [serper-startos](https://github.com/paulscode/serper-startos) | paulscode | 1.5.2 | 2026-06-26 |
 | [shulcrum-startos](https://github.com/TwentyOneLife/shulcrum-startos) | TwentyOneLife | 2.0.9 | 2026-09-24 |
 | [signal-messenger-bridge-startos](https://github.com/Start9-Community/signal-messenger-bridge-startos) | Start9-Community | 2.0.9 | 2026-09-20 |
 | [signet-startos](https://github.com/Letdown2491/signet-startos) | Letdown2491 | 1.5.3 | 2026-06-29 |
 | [simplex-startos](https://github.com/start9labs/simplex-startos) | start9labs | 2.0.9 | 2026-08-28 |
 | [simplex-websocket-bridge-startos](https://github.com/Start9-Community/simplex-websocket-bridge-startos) | Start9-Community | 2.0.9 | 2026-09-21 |
+| [slskdn-startos](https://github.com/snapetech/slskdn-startos) | snapetech | 2.0.9 | 2026-09-25 |
 | [snowflake-startos](https://github.com/Start9-Community/snowflake-startos) | Start9-Community | 2.0.9 | 2026-09-23 |
 | [spaces-startos](https://github.com/horologger/spaces-startos) | horologger | — | 2026-05-09 |
 | [sparrow-webtop-startos](https://github.com/remcoros/sparrow-webtop-startos) | remcoros | 2.0.9 | 2026-08-28 |
@@ -293,7 +296,7 @@ _376 packages · 2026-09-25 · sources: start9labs, Start9-Community, public Git
 | [wireguard-startos](https://github.com/Start9-Community/wireguard-startos) | Start9-Community | 2.0.9 | 2026-08-24 |
 | [wisp-startos](https://github.com/Start9-Community/wisp-startos) | Start9-Community | 2.0.9 | 2026-08-24 |
 | [wordpress-startos](https://github.com/start9labs/wordpress-startos) | start9labs | 1.5.2 | 2026-08-17 |
-| [ytptube-startos](https://github.com/stupleb/ytptube-startos) | stupleb | 2.0.9 | 2026-09-19 |
+| [ytptube-startos](https://github.com/stupleb/ytptube-startos) | stupleb | 2.0.9 | 2026-09-25 |
 
 ## Updated within 1 year (32)
 
